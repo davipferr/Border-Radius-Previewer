@@ -1,0 +1,52 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input {
+  font-size: 20px;
+  width: 60px;
+  height: 30px;
+}
+
+.box {
+  background-color: red;
+  width: 400px;
+  height: 400px;
+}
+
+.align-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.box-radius {
+  border-top-left-radius: 0%;
+  border-top-right-radius: 0%;
+  border-bottom-left-radius: 0%;
+  border-bottom-right-radius: 0%;
+}
+
+.props-text {
+  font-size: 20px;
+  margin: 20px;
+}
+
+.copy-button {
+  font-size: 20px;
+  width: 120px;
+  height: 60px;
+}
+
+.copy-text {
+  font-size: 40px;
+  margin: 20px;
+  font-weight: bold;
+}
